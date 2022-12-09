@@ -1,0 +1,50 @@
+CASE 1:
+
+*** Start of the Indexing Strings Demo ***
+Type not empty string (q - to quit):
+abcdef
+Type the character position within the string:
+10
+Too big... Position reduced to max. available
+The character found at 5 position is 'f'
+
+CASE 2:
+
+*** Start of the Indexing Strings Demo ***
+Type not empty string (q - to quit):
+123456789
+Type the character position within the string:
+3    
+The character found at 3 position is '4'
+Type not empty string (q - to quit):
+
+CASE 3:
+
+*** Start of the Indexing Strings Demo ***
+Type not empty string (q - to quit):
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+Type the character position within the string:
+The character found at 0 position is '1'
+
+CASE 4:
+
+Type not empty string (q - to quit):
+cats and dogs
+Type the character position within the string:
+cats
+The character found at 0 position is 'c'
+
+CASE 5:
+
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+CASE 6:
+
+*** Start of the Indexing Strings Demo ***
+Type not empty string (q - to quit):
+12345
+Type the character position within the string:
+      1
+The character found at 1 position is '2'
